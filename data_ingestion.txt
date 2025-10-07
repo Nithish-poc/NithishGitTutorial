@@ -1,2 +1,9 @@
 Hey, this is not first data ingestion file(bug is fixed). 
 Master here baby. Let me also contribute to the project.
+
+Hey, this is first data ingestion file.
+Master here baby. Let me also contribute to the project.
+
+
+Hehe I am learning Git.
+I am fixing this bug.
